@@ -194,15 +194,13 @@
 ## <div align="center">📊 GitHub Stats</div>
 
 <div align="center">
-  <div style="margin-top: 20px;">
-    <h3>🏆 GitHub Trophies</h3>
-    <img src="https://github-profile-trophy.vercel.app/?username=ayskrlm&theme=discord&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayskrlm&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6D8DFF&text_color=B4C7ED&layout=compact" alt="Top Languages" width="320" />
+  <br /><br />
   
-  <div style="margin-top: 20px;">
-    <h3>🔥 Contribution Streak</h3>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayskrlm&theme=tokyonight&hide_border=true&background=0D1117&stroke=6D8DFF&ring=6D8DFF&fire=FF8C00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6D8DFF&sideLabels=6D8DFF&dates=B4C7ED" alt="GitHub Streak Stats" />
-  </div>
+  <img src="https://github-profile-trophy.vercel.app/?username=ayskrlm&theme=discord&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <br /><br />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayskrlm&theme=tokyonight&hide_border=true&background=0D1117&stroke=6D8DFF&ring=6D8DFF&fire=FF8C00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6D8DFF&sideLabels=6D8DFF&dates=B4C7ED" alt="GitHub Streak Stats" />
 </div>
 
 ## <div align="center">📈 Activity Graph</div>
