@@ -191,12 +191,36 @@
 
 ---
 
-## <div align="center">📊 GitHub Analytics</div>
+## <div align="center">🎮 GitHub Contribution Games</div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayskrlm&theme=tokyonight&hide_border=true&background=0D1117&stroke=6D8DFF&ring=6D8DFF&fire=6D8DFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6D8DFF&sideLabels=6D8DFF&dates=B4C7ED" alt="GitHub Streak Stats" />
+  <h3>🐍 Snake eating my contributions 🐍</h3>
+  
+  <img src="https://github.com/ayskrlm/ayskrlm/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Game Animation" />
+  
+  <div style="margin-top: 20px;">
+    <h3>🏆 GitHub Trophies</h3>
+    <img src="https://github-profile-trophy.vercel.app/?username=ayskrlm&theme=discord&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </div>
+  
+  <div style="margin-top: 20px;">
+    <h3>🔥 Contribution Streak</h3>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayskrlm&theme=tokyonight&hide_border=true&background=0D1117&stroke=6D8DFF&ring=6D8DFF&fire=FF8C00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6D8DFF&sideLabels=6D8DFF&dates=B4C7ED" alt="GitHub Streak Stats" />
+  </div>
+</div>
+
+## <div align="center">📊 3D Contribution Chart</div>
+
+<div align="center">
+  <a href="https://github.com/ayskrlm">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayskrlm&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6D8DFF&text_color=B4C7ED&layout=compact" alt="Top Languages" width="320" />
+  </a>
+  <br/><br/>
+  <a href="./profile-3d-contrib/profile-night-rainbow.svg">
+    <img width="800" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Chart" />
+  </a>
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=ayskrlm&theme=nord&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="trophy" />
+  <p><i>Note: To enable the 3D contribution chart and snake animation, you need to set up GitHub Actions in your repository.</i></p>
 </div>
 
 ## <div align="center">📈 Activity Graph</div>
